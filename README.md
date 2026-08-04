@@ -6,3 +6,5 @@ Key-value pair in-memory state loader in Rust.
 Clone this project and look at the source files:
 - `main.rs`
 - `cache.rs`
+
+*Initialized by willlliammmsmithhh workspace automation.*
